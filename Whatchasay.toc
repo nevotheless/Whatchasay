@@ -1,6 +1,9 @@
-## Interface: 30300
+# Interface: 11302
+## Interface: 80100
+#11302 = 1.13.2 classic
+#80100 = 8.1.5 latest retail
 ## Title: Whatchasay
 ## Notes: A little funny, useless addon for World of Warcraft that will play a certain audio file whenever you die.
 ## Author: nevotheless (ununseptium on github)
-## Version: 1.0
+## Version: 1.1
 main.lua
